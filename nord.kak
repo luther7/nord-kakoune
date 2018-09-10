@@ -1,6 +1,6 @@
 # Nord
 
-%sh{
+evaluate-commands %sh{
 	nord0='rgb:2E3440'
 	nord1='rgb:3B4252'
 	nord2='rgb:434C5E'
